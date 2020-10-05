@@ -301,7 +301,7 @@ on the second band, the GreenChannel on the fifth band and the BlueChannel on th
     	</SourceChannelName>
     	</BlueChannel>
     </ChannelSelection>
-    <RasterSymbolizer>
+    </RasterSymbolizer>
 
 .. figure:: img/channelsexpression1.png
    :align: left 
